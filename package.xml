@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ros4gaze</name>
+  <name>gaze_estimation</name>
   <version>0.0.1</version>
-  <description>The ROS4Gaze package</description>
+  <description>The gaze_estimation package allows gaze estimation in ROS leveraging L2CS-Net gaze detection algorithm.</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
