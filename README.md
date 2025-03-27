@@ -2,7 +2,7 @@
 
 The packages in the `gaze_estimation-release` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic gaze_estimation-release --edit` on `Fri, 14 Mar 2025 12:58:27 -0000`
 
-The `ros_estimation` package was released.
+The `gaze_estimation` package was released.
 
 Version of package(s) in repository `gaze_estimation-release`:
 
