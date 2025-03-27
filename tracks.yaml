@@ -16,12 +16,12 @@ tracks:
       :{release_inc} --os-name rhel
     devel_branch: null
     last_version: 0.0.1
-    name: ros4gaze
+    name: gaze_estimation
     patches: null
     release_inc: '1'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: noetic
     vcs_type: git
-    vcs_uri: https://github.com/hikkaaa/ros4gaze-release.git
+    vcs_uri: https://github.com/hikkaaa/gaze_estimation-release.git
     version: :{auto}
