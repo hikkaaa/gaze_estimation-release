@@ -1,12 +1,12 @@
 <launch>
 	<node
-	  pkg = 'ros4gaze'
+	  pkg = 'gaze_estimation'
 	  type = 'gaze_publisher.py'
 	  name = 'gaze_publisher'
 	  output = 'screen'
 	/>	
 	<node
-	  pkg = 'ros4gaze'
+	  pkg = 'gaze_estimation'
 	  type = 'gaze_subscriber.py'
 	  name = 'gaze_subscriber'
 	  output = 'screen'
